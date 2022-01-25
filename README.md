@@ -3,16 +3,23 @@
 ## Table of Contents  
 1. [Description](#description)
 2. [Installation](#installation)
-3. [Deployed](#deployed)
+3. [TechnologiesUsed] (#Technologies Used)
+3. [Demo](#demo)
 
 ## Description  
-A simple app to create and track a personal budget. This app will work while offline.
+The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 ## Installation  
 Extract all files, navigate in terminal to the directory with extracted files, then run 'npm i'.  
 
-## Deployed
-[Access the deployed web application here.](https://my-budget-tracker01.herokuapp.com/)
+## Technologies Used
+
+* Express
+* NoSql - MongoDB
+* Mongoose
+
+## Demo
+[Access Deployed application.](https://my-budget-tracker01.herokuapp.com/)
 
 ![Screenshot of page](images/pic1.png)
 
